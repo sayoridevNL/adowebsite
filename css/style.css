@@ -169,3 +169,11 @@ footer {
     font-size: 1.2rem;
     font-weight: bold;
 }
+
+.timeline-container {
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+   margin: 0 auto;
+   padding-bottom: 50px;
+}
